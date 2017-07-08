@@ -1,5 +1,5 @@
 # second-tcl-scripts
 puts "hello world 2"
-good boy 
+new part
 good boy
 this if from ATOM
